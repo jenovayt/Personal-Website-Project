@@ -1,0 +1,60 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+}
+
+html {
+    background-color: rgb(220, 188, 250);
+    font-size: 18px;
+}
+
+nav {
+    position: fixed;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: 70px;
+    padding: 10px;
+    display: flex;
+    left: 0;
+    right: 0;
+    top: 0;
+    justify-content: space-between;
+}
+
+footer {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: 60px;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+main > div > img {
+    height: 400px;
+    width: 400px;
+    float: left;
+    margin-top: -90px;
+    margin-left: 10px;
+}
+
+main > section > div > img {
+    height: 400px;
+    width: 400px;
+    float: right;
+    margin-top: -90px;
+    margin-right: 10px;
+}
+
+p {
+    margin-top: 200px;
+    margin-left: 500px;
+    margin-right: 100px;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
