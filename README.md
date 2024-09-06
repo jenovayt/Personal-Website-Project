@@ -1,3 +1,5 @@
 # Personal-Website-Project
 
-This is a personal website for the man himself, Picolas Cage. Unfortunately, he didn't take the assignment Calliope gave him very seriously. So the website is just lorem ipsum and him saying blah blah blah, didn't even bother to introduce himself either.
+This is my personal website that contains a home page, an about me page, and a portfolio. This isn't the final product, so there's just lorem ipsum in there right now.
+
+Had to take this repository back from Picolas Cage...
