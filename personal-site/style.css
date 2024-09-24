@@ -58,3 +58,22 @@ p {
     text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.success-message {
+    font-size: xx-large;
+}
+
+form {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 200px;
+    margin-left: 0px;
+    margin-right: 100px;
+    flex-direction: column;
+    display: flex;
+    width: fit-content;
+}
+
+.success-message {
+    text-align: center !important;
+}
